@@ -74,10 +74,6 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 | Web Search | [DuckDuckGo Search](https://pypi.org/project/duckduckgo-search/) |
 | PDF Export | [fpdf2](https://py-pdf.github.io/fpdf2/) |
 
-## 📝 License
-
-MIT License — feel free to use, modify, and share!
-
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
